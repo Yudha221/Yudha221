@@ -1,5 +1,6 @@
 ## Hi, I'm Yudha!👋
 
+👯 Studying at the University of Gunadarma
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudha221&theme=dark&show_icons=true)
 <!--
