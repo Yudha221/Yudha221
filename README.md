@@ -1,8 +1,10 @@
 ## Hi, I'm Yudha!👋
 
-👯 Studying at the University of Gunadarma
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yudha221&theme=dark&show_icons=true)
+🚀 Front-End Developer | Fresh Graduate
+🎓 Fresh Graduate from University of Gunadarma
+💻 Passionate about Front-End Development, UI/UX, and building clean, modern web interfaces.
+🌱 Currently improving my skills in React.js, Next.js, Tailwind CSS, and GSAP animations.
+📚 Love learning through projects, experimenting with new tech, and contributing to open-source.
 <!--
 **Yudha221/Yudha221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
