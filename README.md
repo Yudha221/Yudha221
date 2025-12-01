@@ -9,6 +9,13 @@
 🌱 Currently improving my skills in React.js, Next.js, Tailwind CSS, and GSAP animations.
 
 📚 Love learning through projects, experimenting with new tech, and contributing to open-source.
+
+🛠️ Tech Stack
+
+Languages: JavaScript, TypeScript, PHP
+Frameworks & Libraries: React.js, Next.js, Tailwind CSS, GSAP
+Tools: Git, GitHub, Vercel, Figma
+Backend: Node.js (basic), MySQL, MongoDB (basic)
 <!--
 **Yudha221/Yudha221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
