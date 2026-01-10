@@ -1,19 +1,19 @@
 ## Hi, I'm Yudha!👋
 
-🚀 Front-End Developer | Fresh Graduate
+🚀 Front-End Developer dan mobile developer | Fresh Graduate
 
 🎓 Fresh Graduate from University of Gunadarma
 
-💻 Passionate about Front-End Development, UI/UX, and building clean, modern web interfaces.
+💻 Passionate about Front-End Development, mobile developer, UI/UX, and building clean, modern web interfaces.
 
-🌱 Currently improving my skills in React.js, Next.js, Tailwind CSS, and GSAP animations.
+🌱 Currently improving my skills in flutter, React.js, Next.js, Tailwind CSS, and GSAP animations.
 
 📚 Love learning through projects, experimenting with new tech, and contributing to open-source.
 
 🛠️ Tech Stack
 
 Languages: JavaScript, TypeScript, PHP
-Frameworks & Libraries: React.js, Next.js, Tailwind CSS, GSAP
+Frameworks & Libraries: flutter, React.js, Next.js, Tailwind CSS, GSAP
 Tools: Git, GitHub, Vercel, Figma
 Backend: Node.js (basic), MySQL, MongoDB (basic)
 <!--
